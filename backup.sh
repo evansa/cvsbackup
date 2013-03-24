@@ -5,7 +5,7 @@
 
 user=
 projects="project1 project2"
-host=rubyforge.org
+host=sourceforge.net
 cvsdir=/var/cvs
 
 backup_project()
