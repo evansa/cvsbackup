@@ -1,11 +1,7 @@
-To use this script:
-  - Optionally, create a new user (I have a netbackup user that does all my backups)
-  - Install this script somewhere (I use ~netbackup/bin)
-  - Edit the script to suit your needs (you'll need to change $user and $projects)
-  - Put this cript in your crontab to run once per day
-
-
 #!/bin/sh
+
+#Written by: Evans Anyokwu
+#Version 0.1
 
 user=
 projects="project1 project2"
