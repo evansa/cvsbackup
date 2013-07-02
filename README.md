@@ -12,9 +12,7 @@ To use this script:
 Author
 ======
 
-Evans Anyokwu of [Javawug](http://javawug.org).
-
-Follow on the twit bullshit: [onyxtic](http://twitter.com/onyxtic)
+Evans Anyokwu
 
 License - GPL2
 ==============
